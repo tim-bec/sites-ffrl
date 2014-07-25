@@ -11,6 +11,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-mesh-batman-adv \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
+	gluon-setup-mode \
 	gluon-status-page \
 	iwinfo \
 	iptables \
