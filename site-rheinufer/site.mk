@@ -1,7 +1,6 @@
 GLUON_SITE_PACKAGES := \
 	gluon-alfred \
 	gluon-announced \
-	gluon-ath9k-workaround \
 	gluon-autoupdater \
 	gluon-config-mode \
 	gluon-ebtables-filter-multicast \
